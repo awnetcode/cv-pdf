@@ -35,14 +35,20 @@ const SideBar = () => {
      Telefon:
      <br />
      609 554 547
+</>,
+<>
+     Portfolio:
+     <br />
+     https://awnetcode.pl/Portfolio/
 </>
     ]
 )}/>
 <SidebarSection content={sidebarSectionHeader(
-    'Umiejętności',
+    'Mocne strony',
     [
-        'Zorientowanie na cel i ustalanie priorytetów',
-        'Zdolność do rozwiązywania problemów',
+        'Rozwiązywanie problemów',
+        'Zorientowanie na cel',
+        'Ustalanie priorytetów',
         'Wiedza techniczna',
         'Łatwość zdobywania informacji',
         'Zdolność do analitycznego myślenia',
