@@ -1,0 +1,19 @@
+.sidebar-section{
+    width: 100%;
+    font-family: 'Oswald',sans-serif;
+}
+
+.sidebar-section-header{
+    font-weight: 600;
+    color: var(--gray-4);
+    background: var(--gray-5);
+    padding: 0 16px;
+    margin-bottom: 16px;
+    opacity: .6;
+}
+
+.sidebar-section-list{
+    list-style-type: none;
+    padding: 0 16px;
+    color: var(--gray-4);
+}
