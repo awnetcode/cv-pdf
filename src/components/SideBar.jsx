@@ -37,6 +37,11 @@ const SideBar = () => {
      609 554 547
 </>,
 <>
+     Wiek:
+     <br />
+     44
+</>,
+<>
      Portfolio:
      <br />
      https://awnetcode.pl/Portfolio/

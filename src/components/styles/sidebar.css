@@ -1,7 +1,7 @@
 .document-sidebar{
     height: 100%;
     width: 240px;
-    background: var(--gray-6);
+    background: linear-gradient( var(--space-cadet), var(--gray-6));
     display: flex;
     flex-direction: column;
     align-items: center;

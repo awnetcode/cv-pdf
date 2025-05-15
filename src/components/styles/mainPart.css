@@ -1,5 +1,5 @@
 .main-part{
-    width: 534px;
+    width: 554px;
     height: 1123px;
     display: flex;
     flex-direction: column;
@@ -11,6 +11,10 @@
 .main-part-header{
     width: 100%;
     padding: 24px;
+    background: var(--gray-6);
+    background: linear-gradient(90deg, var(--space-cadet), var(--gray-6));
+    color: var(--gray-4);
+    
 }
 
 .main-part-header h1{
